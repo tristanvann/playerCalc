@@ -1,0 +1,9 @@
+th, td {
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px 15px;
+    min-width: 100px;
+}
+input {
+    padding: 3px;
+}
